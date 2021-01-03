@@ -21,8 +21,6 @@ class App extends Component {
       // Code Block to default load page w/first 30 users - check git-ignore file
 
 
-  
-
       // Search Github Users
   searchUsers = async text => {
     this.setState({ loading: true });
