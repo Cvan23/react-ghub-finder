@@ -31,3 +31,6 @@ yarn-error.log*
 
 #   //   this.setState({ users: res.data, loading: false });
 #   // }
+
+# Local Netlify folder
+.netlify

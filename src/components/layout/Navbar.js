@@ -9,6 +9,9 @@ const Navbar = ({ icon, title }) => {
           < i className={icon} /> {title}
         </h1>
         <ul>
+        <li>
+          <a href="https://github.com/Cvan23/react-ghub-finder" target="-blank">Github Repo For This Project</a>
+          </li>
           <li>
             <Link to='/'>Home</Link>
           </li>
